@@ -3,6 +3,7 @@ baseURL = "https://grasgruenit.github.io/devweb/"
 theme = "hyde"
 languageCode = "de-de"
 publishDir = "docs"
+relativeURLs = true
 
 [params]
 description = "Gesundheitszentrum Bodensee"
