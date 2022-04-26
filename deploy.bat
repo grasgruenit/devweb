@@ -6,3 +6,5 @@ git commit -m %backupFilename%
 git push
 
 start chrome.exe https://grasgruenit.github.io/devweb
+
+pause
