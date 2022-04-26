@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://grasgruenit.github.io/devweb/home/</loc>
+    <loc>/home/</loc>
   </url><url>
-    <loc>https://grasgruenit.github.io/devweb/tcm/</loc>
+    <loc>/tcm/</loc>
   </url><url>
-    <loc>https://grasgruenit.github.io/devweb/psycho/</loc>
+    <loc>/psycho/</loc>
   </url><url>
-    <loc>https://grasgruenit.github.io/devweb/praxis/</loc>
+    <loc>/praxis/</loc>
   </url><url>
-    <loc>https://grasgruenit.github.io/devweb/uebermich/</loc>
+    <loc>/uebermich/</loc>
   </url><url>
-    <loc>https://grasgruenit.github.io/devweb/kontakt/</loc>
+    <loc>/kontakt/</loc>
   </url><url>
-    <loc>https://grasgruenit.github.io/devweb/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://grasgruenit.github.io/devweb/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://grasgruenit.github.io/devweb/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
