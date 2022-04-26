@@ -1,6 +1,5 @@
 ---
 title: Praxis
-image: stevetobi
 weight: 5
 
 ---

@@ -1,7 +1,7 @@
 ---
 weight: 1
 ---
-{{% bildzitat "/img/home.jpg" %}}Manchmal zeigt sich der Weg erst, wenn man anfängt ihn zu gehen!{{% /bildzitat %}}
+{{% bildzitat "home.jpg" %}}Manchmal zeigt sich der Weg erst, wenn man anfängt ihn zu gehen!{{% /bildzitat %}}
 
 <br>  
 

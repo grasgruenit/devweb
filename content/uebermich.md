@@ -3,7 +3,7 @@ title: Über mich
 weight: 6
 
 ---
-{{% bildzitat "/img/heidigross.jpg" %}}{{% /bildzitat %}}
+{{% bildzitat "heidigross.jpg" %}}{{% /bildzitat %}}
 
 <blockquote>Liebe ist der Wunsch, dass alle
 empfindsamen Wesen sich des Glücks erfreuen und nie ganz vom

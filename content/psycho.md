@@ -3,7 +3,7 @@ title: Psychosomatische Medizin
 weight: 4
 
 ---
-{{% bildzitat "/img/natur.jpg" %}}Die Türe zum Glück öffnet sich von Innen!{{% /bildzitat %}}
+{{% bildzitat "natur.jpg" %}}Die Türe zum Glück öffnet sich von Innen!{{% /bildzitat %}}
 
 Die psychosomatische Medizin beschäftigt sich mit den
 Wechselwirkungen zwischen Psyche - Körper – Psyche und bietet

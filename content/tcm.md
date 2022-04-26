@@ -3,7 +3,7 @@ title: TCM (Traditionelle Chinesische Medizin)
 weight: 2
 
 ---
-{{% bildzitat "/img/tcm.jpg" %}}Carpe Diem !{{% /bildzitat %}}
+{{% bildzitat "tcm.jpg" %}}Carpe Diem !{{% /bildzitat %}}
 
 Die traditionelle chinesische Medizin ( TCM) heißt nicht nur so, sondern ist vor
 zwei- bis dreitausend Jahren in China entstanden und wurde als ganzheitliche
