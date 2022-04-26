@@ -2,6 +2,7 @@ title = "Dr. Heidi Graber-König"
 baseURL = "https://dev.grasgruen.it/"
 theme = "hyde"
 languageCode = "de-de"
+publishDir = "docs"
 
 [params]
 description = "Gesundheitszentrum Bodensee"
