@@ -1,0 +1,23 @@
+title = "Dr. Heidi Graber-König"
+baseURL = "https://dev.grasgruen.it/"
+theme = "hyde"
+languageCode = "de-de"
+
+[params]
+description = "Gesundheitszentrum Bodensee"
+tags = ["blog", "company"]
+features = ["blog", "themes", "disqus"]
+themeColor = "theme-base-0b"
+  
+[markup.goldmark.renderer] 
+	unsafe= true
+
+
+[Menus]
+  main = [
+      {Name = "TCM", URL = "#tcm"},
+      {Name = "Psychosomatische Medizin", URL = "#psycho"},
+	  {Name = "Praxis", URL = "#praxis"},
+	  {Name = "Über mich", URL = "#uebermich"},
+	  {Name = "Kontakt", URL = "#kontakt"}
+  ]

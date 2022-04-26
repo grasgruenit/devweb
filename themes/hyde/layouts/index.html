@@ -1,0 +1,16 @@
+{{ define "main" -}}
+<div class="posts">
+{{ range .Site.RegularPages -}}
+<article class="post" style="min-height:100vh;">
+  {{ if .Title }}
+  <h1 class="post-title" id="{{ .File.BaseFileName }}">
+  <br>
+  {{ .Title }}
+  </h1>
+  {{ end }}
+  {{ .Content }}
+
+</article>
+{{- end }}
+</div>
+{{- end }}

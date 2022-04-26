@@ -1,0 +1,29 @@
+{{ partial "head.html" . }}
+  <body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
+  {{ partial "sidebar.html" . }}
+    <main class="content container">
+    {{ block "main" . -}}{{- end }}
+    </main>
+
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+	<script>
+		// Smooth scrolling when clicking an anchor link
+		$(document).ready(function(){
+
+			// Klick auf eien Link, der eine Raute (# = Anker) enthält
+			$('a[href^="#"]').on('click',function(e) {
+				e.preventDefault();
+
+				var target = this.hash;
+				var $target = $(target);
+
+				$('html, body').stop().animate({
+					'scrollTop': $target.offset().top
+				}, 500, 'swing', function () {
+					window.location.hash = target;
+				});
+			});
+		});
+	 </script>
+  </body>
+</html>
