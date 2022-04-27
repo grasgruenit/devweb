@@ -11,8 +11,8 @@
 
 
 backend:
-  name: github
-  repo: grasgruenit/devweb
+  name: git-gateway
+  # repo: grasgruenit/devweb
   branch: main
 
 
