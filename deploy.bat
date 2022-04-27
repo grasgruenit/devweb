@@ -8,6 +8,5 @@ set backupFilename="rebuilding site %DATE:~10,4%-%DATE:~4,2%-%DATE:~7,2% @ %time
 git commit -m %backupFilename%
 git push
 
-start chrome.exe https://grasgruenit.github.io/devweb
+start chrome.exe https://dev.grasgruen.it
 
-pause

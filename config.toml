@@ -2,7 +2,7 @@ title = "Dr. Heidi Graber-König"
 # baseURL = "https://grasgruenit.github.io/devweb/"
 theme = "hyde"
 languageCode = "de-de"
-publishDir = "docs"
+#publishDir = "docs"
 relativeURLs = true
 
 [params]
