@@ -7,7 +7,7 @@
 #  4) Optionally enable [open authoring](https://www.netlifycms.org/docs/open-authoring/) for community sites, which requires #3
 #  
 #
-
+locale: 'de'
 
 
 backend:
@@ -20,13 +20,12 @@ media_folder: "static/img" # Folder where user uploaded files should go
 public_folder: "/img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "" # Used in routes, ie.: /admin/collections/:slug/edit
+  - name: "default" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Inhalt" # Used in the UI, ie.: "New Post"
     folder: "content" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: false # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
        
