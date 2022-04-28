@@ -22,9 +22,9 @@ und Körper, sowie auch die Ernährungsmedizin und die
 Bewegungstherapie vorwiegend in der Natur, in die Therapie
 miteinzubeziehen.  
   
-Nach meiner Matura studierte ich Humanmedizin an der med. Univ.
-Innsbruck, immer begleitet vom Studium der Komplementär- und
-psychosomatischen Medizin.  
+Nach meiner Matura studierte ich Humanmedizin an der med. Univ. Innsbruck, 
+welches ich 1995 mit der univ. Dr.med. abgeschlossen habe, immer begleitet 
+vom Studium der Komplementär- und psychosomatischen Medizin.  
   
 Meine Turnusärztinausbildung absolvierte ich in Vorarlberg, begleitet
 von Weiterbildungen in der Notfallmedizin, Akupunktur und

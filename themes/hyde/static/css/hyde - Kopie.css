@@ -13,10 +13,6 @@
  * https://github.com/poole/hyde.
  */
 
-.posts {
-	background-color: #C03868;
-	padding:20px;
-}
 
 .responsiveContainer {
   position: relative;
@@ -75,7 +71,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(0,0,0,.7);
+  color: rgba(255,255,255,.7);
   background-color: #202020;
 }
 @media (min-width: 48em) {
@@ -91,7 +87,7 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #000;
+  color: #fff;
 }
 
 /* About section */
@@ -140,21 +136,21 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    2rem;
-  padding-bottom: 2rem;
+  padding-top:    4rem;
+  padding-bottom: 4rem;
 }
 
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
-    margin-left: 17rem;
+    margin-left: 20rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-   /* margin-left: 22rem; */
+    margin-left: 22rem;
     margin-right: 4rem;
   }
 }
@@ -224,11 +220,11 @@ a.sidebar-nav-item:focus {
 
 /* Green */
 .theme-base-0b .sidebar {
-  background-color: #fff;
+  background-color: #057A01;
 }
 .theme-base-0b .content a,
 .theme-base-0b .related-posts li a:hover {
-  color: #fff;
+  color: #057A01;
 }
 
 /* Cyan */

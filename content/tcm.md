@@ -26,4 +26,3 @@ umso andauernder sind.
 Die TCM umfasst verschiedene Behandlungsverfahren wie Akupunktur,
 Kräuterheilkunde, Ernährungslehre, manuelle Therapien, sowie verschiedene
 Atem- und Körperübungen.
-***
