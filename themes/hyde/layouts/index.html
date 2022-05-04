@@ -9,7 +9,11 @@
   </h1>
   {{ end }}
   {{ .Content }}
-<hr>
+
+{{ with .PrevInSection }}
+  <a href="#{{ .File.BaseFileName }}"><hr style="width:48%;display:inline-block;vertical-align: middle;"> <i class="fa-solid fa-angles-down"></i> <hr style="width:48%;display:inline-block;vertical-align: middle;"></a>
+{{ end }}
+
 </article>
 {{- end }}
 </div>
