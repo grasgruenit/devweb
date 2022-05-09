@@ -27,37 +27,40 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         file: "/content/home.md"
         fields: # The fields each document in this collection have
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Inhalt", name: "body", widget: "markdown"}
       - label: "TCM"
         name: "tcm"
         file: "/content/tcm.md"
         fields: # The fields each document in this collection have
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Weight", name: "weight", widget: "number"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Reihenfolge", name: "weight", widget: "number"}
+          - {label: "Inhalt", name: "body", widget: "markdown"}
       - label: "Psycho"
         name: "psycho"
         file: "/content/psycho.md"
         fields: # The fields each document in this collection have
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Reihenfolge", name: "weight", widget: "number"}
+          - {label: "Inhalt", name: "body", widget: "markdown"}
       - label: "Praxis"
         name: "praxis"
         file: "/content/praxis.md"
         fields: # The fields each document in this collection have
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Reihenfolge", name: "weight", widget: "number"}
+          - {label: "Inhalt", name: "body", widget: "markdown"}
       - label: "Uebermich"
         name: "uebermich"
         file: "/content/uebermich.md"
         fields: # The fields each document in this collection have
-          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Reihenfolge", name: "weight", widget: "number"}
           - {label: "Body", name: "body", widget: "markdown"}
       - label: "Kontakt"
         name: "kontakt"
         file: "/content/kontakt.md"
         fields: # The fields each document in this collection have
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Titel", name: "title", widget: "string"}
+          - {label: "Reihenfolge", name: "weight", widget: "number"}
+          - {label: "Inhalt", name: "body", widget: "markdown"}
        
