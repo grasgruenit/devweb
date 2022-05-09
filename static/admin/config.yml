@@ -25,7 +25,7 @@ collections: # A list of collections the CMS should be able to edit
     files: 
       - label: "Home"
         name: "home"
-        file: "home.md"
+        file: "/content/home.md"
         fields: # The fields each document in this collection have
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
