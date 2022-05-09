@@ -23,7 +23,7 @@ collections: # A list of collections the CMS should be able to edit
   - label: "Inhalt"
     name: "inhalt"
     files: 
-      -label: "Home"
+      - label: "Home"
         name: "home"
         file: "home.md"
         fields: # The fields each document in this collection have
