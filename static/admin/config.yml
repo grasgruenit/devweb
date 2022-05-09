@@ -29,4 +29,34 @@ collections: # A list of collections the CMS should be able to edit
         fields: # The fields each document in this collection have
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - label: "TCM"
+        name: "tcm"
+        file: "/content/tcm.md"
+        fields: # The fields each document in this collection have
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Psycho"
+        name: "psycho"
+        file: "/content/psycho.md"
+        fields: # The fields each document in this collection have
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Praxis"
+        name: "praxis"
+        file: "/content/praxis.md"
+        fields: # The fields each document in this collection have
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Uebermich"
+        name: "uebermich"
+        file: "/content/uebermich.md"
+        fields: # The fields each document in this collection have
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Kontakt"
+        name: "kontakt"
+        file: "/content/kontakt.md"
+        fields: # The fields each document in this collection have
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
        
